@@ -45,13 +45,5 @@ public class Task2 {
 		
 		System.out.println("YOUR GRADE IS: "+grade);
 		
-		
-		
-		
-         
-         
-		
-		
-		
 	}
 }
